@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suyashendra
+- 👋 Hi, I’m @Suyashendra Rathore
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Reactjs and Django
 - 💞️ I’m looking to collaborate on ...
